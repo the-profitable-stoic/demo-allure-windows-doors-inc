@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Allure Windows & Doors Inc",
+    "phone": "+16196477744",
+    "category": "window and door installer",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Window & Door Experts",
+      "heroSubline": "Premium installation and replacement services. Protecting your home against the elements with style and security.",
+      "aboutTitle": "Built on Quality, Rooted in San Diego",
+      "aboutText": [
+        "Allure Windows & Doors Inc started with a simple goal: to provide San Diego homeowners with superior window and door solutions. We saw a need for a contractor that combined expert craftsmanship with a commitment to customer satisfaction, and we've been exceeding expectations ever since.",
+        "Our approach is straightforward: we listen to your needs, assess your property, and recommend the best products for your specific situation. Whether it's weathering salty air near Coronado or boosting energy efficiency in Escondido, we tailor our services to San Diego's unique challenges.",
+        "We're proud to be a part of the San Diego community. We source materials locally whenever possible, support local charities, and are committed to sustainable practices. We build lasting relationships with our clients, ensuring their homes are protected and beautiful for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision installation ensures optimal performance and longevity for your windows and doors."
+        },
+        {
+          "title": "Premium Products",
+          "description": "We partner with leading manufacturers to offer durable, energy-efficient, and stylish options."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand San Diego's climate and housing styles, providing tailored solutions for your needs."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Your happiness is our priority. We're committed to providing exceptional service from start to finish."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today",
+      "ctaSubline": "Schedule a free consultation and discover the perfect windows and doors for your San Diego home."
+    },
+    "services": [
+      {
+        "slug": "window-installation",
+        "name": "Window Installation",
+        "shortDescription": "Professional window installation for enhanced energy efficiency and curb appeal.",
+        "description": "Proper window installation is critical for performance and longevity, especially in San Diego's diverse climate. Our team meticulously installs all types of windows, from classic single-hung to modern sliding styles. We handle everything from precise measurements to secure sealing, ensuring a weather-tight fit that minimizes drafts and maximizes energy savings. We are experienced with the unique challenges of San Diego's housing stock, whether it's retrofitting windows in a historic La Jolla cottage or installing energy-efficient windows in a new construction home in Scripps Ranch. \n\nOur installation process includes removing old windows, preparing the opening, installing the new window according to manufacturer specifications, and finishing with professional caulking and trim work. We pay close attention to detail, ensuring a seamless and aesthetically pleasing result. With Allure Windows & Doors Inc, you can trust that your new windows will not only look beautiful but also provide lasting protection against the elements and improve your home's overall value.\n\nWe also offer window replacement services, upgrading outdated or damaged windows with modern, energy-efficient models. Our team can help you choose the right windows for your home's style and budget, considering factors such as energy efficiency, noise reduction, and security.",
+        "process": [
+          "Step 1: Initial Consultation & Measurement",
+          "Step 2: Window Selection & Ordering",
+          "Step 3: Old Window Removal",
+          "Step 4: Professional Installation & Sealing"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Home Security",
+          "Increased Property Value",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window installation take?",
+            "answer": "The duration depends on the number of windows and the complexity of the project. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "What type of windows are best for San Diego's climate?",
+            "answer": "Energy-efficient windows with low-E coatings are ideal for reducing heat gain and blocking harmful UV rays."
+          },
+          {
+            "question": "Do you offer a warranty on your window installations?",
+            "answer": "Yes, we offer a comprehensive warranty on both the windows and our installation services, providing peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation",
+        "shortDescription": "Secure and stylish door installation for entryways, patios, and more.",
+        "description": "A well-installed door not only enhances your home's curb appeal but also provides security and energy efficiency. Allure Windows & Doors Inc specializes in the installation of all types of doors, including entry doors, patio doors, sliding doors, and French doors. We understand the importance of proper installation to ensure a weathertight seal and smooth operation. Our team is experienced in working with a variety of materials, from wood and fiberglass to steel and composite. \n\nWe pay close attention to detail during every step of the installation process, from preparing the opening to installing the door and hardware. We ensure that the door is properly aligned and sealed to prevent drafts and leaks. We also offer door replacement services, upgrading outdated or damaged doors with modern, energy-efficient models. Whether you're looking to replace a worn-out front door or install a new sliding glass door to your patio, we have the expertise to get the job done right. \n\nIn San Diego, coastal properties require doors that can withstand salt air corrosion. We offer a range of durable, weather-resistant doors designed to withstand the harsh coastal environment. We also offer security upgrades, such as reinforced frames and multi-point locking systems, to protect your home from intruders.",
+        "process": [
+          "Step 1: Consultation & Door Selection",
+          "Step 2: Precise Measurements & Ordering",
+          "Step 3: Old Door Removal & Frame Preparation",
+          "Step 4: Professional Installation & Hardware Fitting"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Enhanced Curb Appeal",
+          "Increased Energy Efficiency",
+          "Smooth Operation"
+        ],
+        "faq": [
+          {
+            "question": "What type of door is best for a coastal home in San Diego?",
+            "answer": "Fiberglass or composite doors are excellent choices due to their resistance to salt air corrosion and moisture damage."
+          },
+          {
+            "question": "How long does door installation take?",
+            "answer": "Typically, a standard door installation takes one day. More complex installations may require additional time."
+          },
+          {
+            "question": "Do you offer a warranty on your door installations?",
+            "answer": "Yes, we offer a warranty on both the door and the installation, ensuring your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your home with energy-efficient window replacements.",
+        "description": "Replacing old or damaged windows can significantly improve your home's energy efficiency, comfort, and value. Allure Windows & Doors Inc offers a wide selection of replacement windows to suit any style and budget. We can help you choose the right windows for your home, considering factors such as energy efficiency, noise reduction, and aesthetics. Our team is experienced in replacing all types of windows, including single-hung, double-hung, casement, and sliding windows. \n\nWe understand the challenges of window replacement in San Diego's older homes, such as dealing with uneven openings and outdated framing. Our team has the expertise to overcome these challenges and ensure a seamless and professional installation. We also offer energy-efficient window options that can help you save money on your energy bills. With our low-E coatings and insulated frames, you can reduce heat gain in the summer and heat loss in the winter. \n\nWhether you're looking to replace a single broken window or upgrade all the windows in your home, Allure Windows & Doors Inc is here to help. We offer free consultations and estimates, and we're committed to providing exceptional service from start to finish. Old windows can cause drafts and increased energy bills. Replacing them with modern, energy-efficient models can dramatically improve comfort and savings.",
+        "process": [
+          "Step 1: Home Assessment & Product Selection",
+          "Step 2: Precise Measurements & Custom Ordering",
+          "Step 3: Careful Removal of Existing Windows",
+          "Step 4: Expert Installation & Finishing Touches"
+        ],
+        "benefits": [
+          "Lower Energy Bills",
+          "Increased Home Value",
+          "Improved Comfort",
+          "Enhanced Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need to replace my windows?",
+            "answer": "Signs include drafts, condensation between the panes, difficulty opening or closing, and rotting frames."
+          },
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can reduce heat gain in the summer and heat loss in the winter, lowering your energy bills and improving your home's comfort."
+          },
+          {
+            "question": "Do you offer financing options for window replacement?",
+            "answer": "Yes, we offer flexible financing options to help you make your home improvement dreams a reality."
+          }
+        ]
+      },
+      {
+        "slug": "patio-door-installation",
+        "name": "Patio Door Installation",
+        "shortDescription": "Seamless patio door installation to connect your indoor and outdoor spaces.",
+        "description": "Create a seamless transition between your indoor and outdoor living spaces with a professionally installed patio door. Allure Windows & Doors Inc specializes in the installation of all types of patio doors, including sliding glass doors, French doors, and bi-fold doors. We understand the importance of proper installation to ensure smooth operation, energy efficiency, and security. Our team is experienced in working with a variety of materials, from vinyl and aluminum to wood and fiberglass. \n\nWe pay close attention to detail during every step of the installation process, from preparing the opening to installing the door and hardware. We ensure that the door is properly aligned and sealed to prevent drafts and leaks. We also offer patio door replacement services, upgrading outdated or damaged doors with modern, energy-efficient models. A new patio door is a great way to freshen up a home. \n\nWhether you're looking to create a spacious entertaining area or simply enjoy the view from your backyard, Allure Windows & Doors Inc can help you choose the perfect patio door for your home. We offer free consultations and estimates, and we're committed to providing exceptional service from start to finish.",
+        "process": [
+          "Step 1: Design Consultation & Door Selection",
+          "Step 2: Accurate Measurements & Custom Order",
+          "Step 3: Careful Removal of Existing Door",
+          "Step 4: Precise Installation & Weather Sealing"
+        ],
+        "benefits": [
+          "Enhanced Natural Light",
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Seamless Indoor-Outdoor Living"
+        ],
+        "faq": [
+          {
+            "question": "What type of patio door is best for maximizing natural light?",
+            "answer": "Sliding glass doors are a great option for maximizing natural light due to their large glass panels."
+          },
+          {
+            "question": "How do I choose the right patio door for my home?",
+            "answer": "Consider factors such as your home's style, budget, and energy efficiency needs. We can help you choose the perfect patio door for your home."
+          },
+          {
+            "question": "Do you offer security upgrades for patio doors?",
+            "answer": "Yes, we offer security upgrades such as reinforced frames, multi-point locking systems, and shatter-resistant glass."
+          }
+        ]
+      },
+      {
+        "slug": "french-door-installation",
+        "name": "French Door Installation",
+        "shortDescription": "Elegant French door installation for a touch of classic style.",
+        "description": "Add a touch of elegance and sophistication to your home with a professionally installed French door. Allure Windows & Doors Inc specializes in the installation of French doors, both interior and exterior. We understand the importance of proper installation to ensure smooth operation, energy efficiency, and security. Our team is experienced in working with a variety of materials, from wood and fiberglass to steel and composite. \n\nWe pay close attention to detail during every step of the installation process, from preparing the opening to installing the door and hardware. We ensure that the door is properly aligned and sealed to prevent drafts and leaks. We also offer French door replacement services, upgrading outdated or damaged doors with modern, energy-efficient models. French doors are a stylish way to increase home value. \n\nWhether you're looking to create a grand entrance or add a touch of charm to your patio, Allure Windows & Doors Inc can help you choose the perfect French door for your home. We offer free consultations and estimates, and we're committed to providing exceptional service from start to finish.",
+        "process": [
+          "Step 1: Design Consultation & Door Selection",
+          "Step 2: Precise Measurements & Custom Ordering",
+          "Step 3: Careful Removal of Existing Door",
+          "Step 4: Expert Installation & Weather Sealing"
+        ],
+        "benefits": [
+          "Enhanced Aesthetics",
+          "Increased Home Value",
+          "Improved Natural Light",
+          "Smooth Operation"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of French doors?",
+            "answer": "French doors offer a timeless aesthetic, increased natural light, and improved ventilation."
+          },
+          {
+            "question": "What materials are French doors typically made of?",
+            "answer": "French doors are commonly made of wood, fiberglass, steel, or composite materials."
+          },
+          {
+            "question": "Do you offer custom French door designs?",
+            "answer": "Yes, we offer custom French door designs to match your unique style and preferences."
+          }
+        ]
+      },
+      {
+        "slug": "storm-door-installation",
+        "name": "Storm Door Installation",
+        "shortDescription": "Protect your entryways with durable and stylish storm doors.",
+        "description": "Protect your entry doors from the elements with a professionally installed storm door. Allure Windows & Doors Inc specializes in the installation of storm doors, providing an extra layer of security and insulation for your home. We understand the importance of proper installation to ensure smooth operation and weather protection. Our team is experienced in working with a variety of materials, from aluminum and steel to vinyl and wood. \n\nWe pay close attention to detail during every step of the installation process, from preparing the opening to installing the door and hardware. We ensure that the door is properly aligned and sealed to prevent drafts and leaks. We also offer storm door replacement services, upgrading outdated or damaged doors with modern, energy-efficient models. A storm door can help to protect your home from heavy rain. \n\nWhether you're looking to protect your entry door from the elements or add an extra layer of security to your home, Allure Windows & Doors Inc can help you choose the perfect storm door for your needs. We offer free consultations and estimates, and we're committed to providing exceptional service from start to finish.",
+        "process": [
+          "Step 1: Consultation & Door Selection",
+          "Step 2: Precise Measurements & Custom Ordering",
+          "Step 3: Careful Removal of Existing Door",
+          "Step 4: Expert Installation & Weather Sealing"
+        ],
+        "benefits": [
+          "Enhanced Weather Protection",
+          "Increased Security",
+          "Improved Energy Efficiency",
+          "Extended Door Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of installing a storm door?",
+            "answer": "Storm doors provide weather protection, increase security, improve energy efficiency, and extend the lifespan of your entry door."
+          },
+          {
+            "question": "What materials are storm doors typically made of?",
+            "answer": "Storm doors are commonly made of aluminum, steel, vinyl, or wood."
+          },
+          {
+            "question": "Do you offer different styles of storm doors?",
+            "answer": "Yes, we offer a variety of storm door styles to match your home's architecture and personal preferences."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is proud to offer our window and door installation services to the residents of Chula Vista, California. Known for its diverse neighborhoods and family-friendly atmosphere, Chula Vista boasts a significant number of homes built in the 1970s and 1980s, many of which can benefit from energy-efficient window and door upgrades. We understand the specific needs of Chula Vista homeowners and are committed to providing top-quality products and expert installation. \n\nOur team is experienced in working with a variety of architectural styles common in Chula Vista, ensuring seamless integration and enhanced curb appeal. Whether you're looking to replace outdated windows, improve energy efficiency, or enhance the security of your home, Allure Windows & Doors Inc. is here to help. We offer free consultations and customized solutions to meet your unique budget and requirements.",
+        "localContext": "Chula Vista, with its mild year-round climate and prevalence of 1970s-80s suburban homes, requires windows and doors that are both energy-efficient and aesthetically pleasing.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Bonita"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. provides exceptional window and door services to the coastal community of Carlsbad, California. With its beautiful beaches and charming beach cottages, Carlsbad presents unique considerations for window and door replacement. We specialize in providing solutions that complement the coastal aesthetic and withstand the elements. \n\nWe offer a wide selection of windows and doors designed to enhance the natural beauty of Carlsbad homes. From impact-resistant windows to protect against storms to stylish doors that add character, Allure Windows & Doors Inc. is committed to delivering superior products and expert craftsmanship. We also prioritize energy efficiency to help you save on energy costs while enjoying the舒適 of your home.",
+        "localContext": "Carlsbad's beach community cottages and mild year-round climate necessitate durable and aesthetically pleasing window and door solutions.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is dedicated to serving the residents of Escondido, California, with top-notch window and door installation services. Escondido, known for its rich history and diverse neighborhoods, features many homes built in the 1960s and 1970s, often ranch-style, that can greatly benefit from modern window and door upgrades. We understand the specific architectural characteristics of Escondido homes and are equipped to provide tailored solutions. \n\nOur team has extensive experience working with various architectural styles common in Escondido, ensuring a perfect fit and enhanced aesthetic appeal. Whether you're looking to improve energy efficiency, enhance security, or simply update the look of your home, Allure Windows & Doors Inc. is here to assist. We offer complimentary consultations and customized solutions to match your specific needs and budget.",
+        "localContext": "Escondido, with its mild year-round climate and abundance of 1960s-70s ranch homes, requires windows and doors that are both stylish and energy-efficient.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Valley Center",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Diego",
+        "slug": "san-diego-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is proud to serve the greater San Diego area, providing high-quality window and door installation and replacement services. We understand the diverse architectural styles and unique climate considerations of San Diego, from historic homes in downtown to modern residences in the suburbs. Our team is committed to delivering exceptional craftsmanship and customer satisfaction.\n\nWe offer a wide range of window and door options to suit any San Diego home, including energy-efficient models that can help you save on heating and cooling costs. Whether you're looking to upgrade your windows for improved insulation or enhance the curb appeal of your home with a new front door, Allure Windows & Doors Inc. is here to help. We offer free consultations and customized solutions to meet your specific needs.",
+        "localContext": "San Diego's diverse architecture and mild climate require versatile window and door solutions that balance aesthetics, energy efficiency, and durability.",
+        "nearbyAreas": [
+          "La Jolla",
+          "Pacific Beach",
+          "Coronado"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is pleased to offer our expert window and door services to the residents of Oceanside, California. As a coastal city, Oceanside experiences unique weather conditions that require durable and weather-resistant windows and doors. We specialize in providing solutions that can withstand the elements and enhance the beauty of your home. \n\nOur team is experienced in working with a variety of architectural styles common in Oceanside, from beach bungalows to modern homes. We offer a wide selection of windows and doors designed to complement your home's aesthetic and provide lasting performance. Allure Windows & Doors Inc. is dedicated to providing superior products and expert installation.",
+        "localContext": "Oceanside's coastal environment calls for windows and doors that can withstand salt air and strong winds, while also providing energy efficiency.",
+        "nearbyAreas": [
+          "Vista",
+          "Carlsbad",
+          "San Clemente"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is delighted to provide top-quality window and door services to the community of Encinitas, California. Known for its beautiful beaches and laid-back lifestyle, Encinitas homes often benefit from upgrades that enhance their coastal charm and energy efficiency. We understand the specific needs of Encinitas homeowners and are committed to delivering exceptional results.\n\nWe offer a wide range of window and door options to suit the unique architectural styles found in Encinitas, from classic beach cottages to modern residences. Whether you're looking to improve energy efficiency, enhance security, or simply update the look of your home, Allure Windows & Doors Inc. is here to help. We provide free consultations and customized solutions to meet your individual needs and budget.",
+        "localContext": "Encinitas, with its coastal vibe and varied architectural styles, benefits from windows and doors that blend seamlessly with the surroundings while providing optimal performance.",
+        "nearbyAreas": [
+          "Solana Beach",
+          "Carlsbad",
+          "Leucadia"
+        ]
+      },
+      {
+        "city": "Vista",
+        "slug": "vista-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is proud to offer our comprehensive window and door services to the residents of Vista, California. With its diverse neighborhoods and growing community, Vista presents a variety of housing styles, each with its own unique window and door needs. We are committed to providing Vista homeowners with top-quality products and expert installation.\n\nOur team has extensive experience working with various architectural styles in Vista, ensuring a perfect fit and enhanced curb appeal. Whether you're looking to replace outdated windows, improve energy efficiency, or enhance the security of your home, Allure Windows & Doors Inc. is here to help. We offer free consultations and customized solutions to meet your individual needs and budget.",
+        "localContext": "Vista's diverse neighborhoods and growing community require adaptable window and door solutions that cater to a range of architectural styles and homeowner preferences.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Oceanside",
+          "Escondido"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is dedicated to providing top-notch window and door services to the residents of San Marcos, California. As a thriving city with a mix of established neighborhoods and new developments, San Marcos offers a variety of housing styles, each with its own unique window and door requirements. We are committed to delivering exceptional craftsmanship and customer satisfaction.\n\nWe offer a wide range of window and door options to suit any San Marcos home, from energy-efficient models to stylish designs that enhance curb appeal. Whether you're looking to upgrade your windows for improved insulation or replace your front door for added security, Allure Windows & Doors Inc. is here to help. We provide free consultations and customized solutions to meet your specific needs and budget.",
+        "localContext": "San Marcos, with its mix of established neighborhoods and new developments, demands window and door solutions that cater to a variety of architectural styles and homeowner needs.",
+        "nearbyAreas": [
+          "Vista",
+          "Escondido",
+          "Carlsbad"
+        ]
+      },
+      {
+        "city": "Poway",
+        "slug": "poway-ca",
+        "state": "CA",
+        "content": "Allure Windows & Doors Inc. is pleased to offer its expert window and door services to the community of Poway, California. Known for its family-friendly atmosphere and well-maintained homes, Poway presents unique opportunities for window and door upgrades that enhance both aesthetics and energy efficiency. We understand the specific needs of Poway homeowners and are committed to delivering exceptional results.\n\nOur team has extensive experience working with the various architectural styles found in Poway, ensuring a seamless fit and enhanced curb appeal. Whether you're looking to improve energy efficiency, enhance security, or simply update the look of your home, Allure Windows & Doors Inc. is here to assist. We offer complimentary consultations and customized solutions to match your specific needs and budget.",
+        "localContext": "Poway's family-friendly atmosphere and well-maintained homes benefit from window and door upgrades that enhance both aesthetics and energy efficiency.",
+        "nearbyAreas": [
+          "Escondido",
+          "Rancho Bernardo",
+          "Scripps Ranch"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Window Installation",
+        "text": "Allure Windows & Doors did an outstanding job installing new windows in my condo in Pacific Beach. The team was professional, efficient, and the quality of their work is impeccable. My home is noticeably quieter and more comfortable now. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "We had Allure install a new front door and sliding glass door in our Scripps Ranch home. The crew was punctual and completed the work quickly. There was a small issue with the alignment of the sliding door, but they came back the next day and fixed it promptly. Overall, happy with the service.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "I replaced all the old windows in my 1940s cottage in La Jolla with energy-efficient windows from Allure. The difference is amazing! My house stays cooler in the summer, and I've already noticed a drop in my energy bills. The installation team was very respectful of my home and left everything clean and tidy.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Patio Door Installation",
+        "text": "Allure Windows & Doors installed a beautiful new French door leading to our backyard patio. The quality of the door is excellent, and the installation was flawless. It has completely transformed our outdoor living space!",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Storm Door Installation",
+        "text": "Allure installed a storm door for my home. The installation was quick and easy, and the new door looks great! I recommend!",
+        "date": "2024-05-10"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "The team was punctual, professional, and did an excellent job replacing my old windows. My home is now much more energy efficient!",
+        "date": "2024-07-04"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Allure Windows & Doors | San Diego",
+        "description": "Expert window and door installation and replacement in San Diego. Enhance your home with energy-efficient, secure solutions."
+      },
+      "about": {
+        "title": "About Allure Windows & Doors",
+        "description": "Learn about Allure Windows & Doors' commitment to quality, customer satisfaction, and community in San Diego."
+      },
+      "services": {
+        "title": "San Diego Window & Door Services",
+        "description": "Explore Allure Windows & Doors' comprehensive services for window and door installation, replacement, and repair in San Diego."
+      },
+      "contact": {
+        "title": "Contact Allure Windows & Doors",
+        "description": "Get in touch with Allure Windows & Doors for a free consultation and expert advice on your window and door needs in San Diego."
+      },
+      "reviews": {
+        "title": "Allure Windows & Doors Reviews",
+        "description": "Read what our satisfied customers have to say about Allure Windows & Doors' quality workmanship and exceptional service in San Diego."
+      },
+      "service-areas": {
+        "title": "San Diego Service Areas",
+        "description": "Allure Windows & Doors proudly serves San Diego and surrounding areas with expert window and door services."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-installation": "/images/service-window-installation.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "window-replacement": "/images/service-window-replacement.webp",
+      "patio-door-installation": "/images/service-patio-door-installation.webp",
+      "french-door-installation": "/images/service-french-door-installation.webp",
+      "storm-door-installation": "/images/service-storm-door-installation.webp"
+    },
+    "servicesResponsive": {
+      "window-installation": {
+        "src": "/images/service-window-installation.webp",
+        "srcset": "/images/service-window-installation-400w.webp 400w, /images/service-window-installation-800w.webp 800w, /images/service-window-installation-1200w.webp 1200w, /images/service-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-door-installation": {
+        "src": "/images/service-patio-door-installation.webp",
+        "srcset": "/images/service-patio-door-installation-400w.webp 400w, /images/service-patio-door-installation-800w.webp 800w, /images/service-patio-door-installation-1200w.webp 1200w, /images/service-patio-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "french-door-installation": {
+        "src": "/images/service-french-door-installation.webp",
+        "srcset": "/images/service-french-door-installation-400w.webp 400w, /images/service-french-door-installation-800w.webp 800w, /images/service-french-door-installation-1200w.webp 1200w, /images/service-french-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-door-installation": {
+        "src": "/images/service-storm-door-installation.webp",
+        "srcset": "/images/service-storm-door-installation-400w.webp 400w, /images/service-storm-door-installation-800w.webp 800w, /images/service-storm-door-installation-1200w.webp 1200w, /images/service-storm-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
